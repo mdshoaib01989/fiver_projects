@@ -1,0 +1,239 @@
+/* Medium Layout: 240px. */
+@media only screen and (max-width: 240px) {
+
+.top_right {
+  margin: 4px 0;
+}
+.navbar-brand > img {
+	width: 60%;
+	margin: -55px 0 0 10px;
+}
+.navbar-toggle {
+  margin-top: 18px;
+}
+.custom {
+	font-size: 12px;
+	height: 30px;
+	padding: 0 12px;
+}
+.text_area img {
+  width: 25%;
+}
+.advertise_area {
+  text-align: center;
+}
+.item_colum {
+  margin-right: 0;
+  width: 100%
+}
+.memeber {
+  margin-left: 13px;
+}
+.service > img {
+  margin-top: 40px;
+}
+.populer_area h1 {
+  font-size: 25px;
+}
+.item img {
+  width: 100%;
+}
+.bottom_item > h1 {
+  margin-bottom: 20px;
+  margin-top: 30px;
+}
+.bottom_item_right p {
+  margin-bottom: 10px;
+}
+.header_text_area_inner > img {
+  width: 40%;
+}
+.header_text_area_inner > h1 {
+  font-size: 22px;
+}
+.header_text_area_inner > p {
+  font-size: 12px;
+}
+}
+/* Medium Layout: 414px. */
+@media only screen and (max-width: 600px) {
+
+.top_right {
+  margin: 4px 0;
+}
+.navbar-brand > img {
+	width: 60%;
+	margin-left: 10px;
+}
+.main_menu ul {
+	margin: 15px 24%;
+}
+.navbar-toggle {
+  margin-top: 18px;
+}
+.custom {
+	font-size: 12px;
+	height: 30px;
+	padding: 0 12px;
+}
+.text_area img {
+  width: 25%;
+}
+.advertise_area {
+  text-align: center;
+}
+.item_colum {
+  margin-right: 0;
+  width: 100%;
+}
+.memeber {
+  margin-left: 13px;
+}
+.service > img {
+  margin-top: 40px;
+}
+.populer_area h1 {
+  font-size: 25px;
+}
+.item img {
+  width: 100%;
+}
+.bottom_item > h1 {
+  margin-bottom: 20px;
+  margin-top: 30px;
+}
+.bottom_item_right p {
+  margin-bottom: 10px;
+}
+.header_text_area_inner > img {
+  width: 40%;
+}
+.header_text_area_inner > h1 {
+  font-size: 22px;
+}
+.header_text_area_inner > p {
+  font-size: 12px;
+}
+.about_area span {
+  font-size: 30px;
+}
+.about_area h1 {
+  font-size: 30px;
+}
+.news_area .news_item {
+  padding: 0;
+}
+.news_item i {
+  margin-bottom: 20px;
+}
+.offers_area_inner > h3 {
+  margin-top: 30px;
+}
+.offers_area_inner {
+  padding: 0 0 40px;
+}
+.bottom_area {
+  padding: 0;
+}
+.offer_label p {
+  font-size: 13px;
+  height: 50px;
+  padding: 16px 0;
+  top: -10px;
+  width: 50px;
+}
+}
+/* Mobile Layout: 767px. */
+@media only screen and (max-width: 767px) {
+
+.navbar-brand > img {
+  margin-left: 10px;
+  width: 60%;
+}
+.main_menu ul {
+	margin: 0;
+	text-align: right;
+}
+.memeber {
+  margin-left: 13px;
+}
+.service > img {
+  margin-top: 40px;
+}
+.advertise_area {
+  margin: 25px 0 15px;
+  text-align: center;
+}
+.customer_area h1 {
+  margin-bottom: 0;
+  margin-top: 40px;
+}
+.item img {
+  width: 100%;
+}
+.news_area .news_item {
+  padding: 0;
+}
+}
+/* Tablet Layout: 768px to 991px */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+.memeber {
+  margin-left: 13px;
+}
+.service > img {
+  margin-top: 40px;
+}
+.col-md-3.bottom_item {
+  display: inline-block;
+  width: 24%;
+}
+.bottom_item_right p {
+  font-size: 9px;
+}
+.bottom_item > img {
+  width: 100%;
+}
+.col-md-4.text-center.populer {
+    display: inline-block;
+    width: 49%;
+}
+.item {
+  margin-left: 5%;
+}
+.item_colum_last {
+  margin-right: 13px;
+}
+.news_area .news_item {
+  padding: 0;
+}
+.news_item i {
+  margin-bottom: 20px;
+}
+.offers_area_inner > h3 {
+  margin-top: 30px;
+}
+.offers_area_inner {
+  padding: 0 0 40px;
+}
+.offer_label p {
+  font-size: 13px;
+  height: 50px;
+  padding: 16px 0;
+  top: -10px;
+  width: 50px;
+}
+.bottom_area {
+  padding: 0 0 55px 0;
+}
+}
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+
+.col-md-4.text-center.populer {
+  width: 33%;
+}
+.item {
+  margin-left: 0%;
+}
+
+}

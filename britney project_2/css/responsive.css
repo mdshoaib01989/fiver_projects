@@ -1,0 +1,240 @@
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-width:320px) and (max-width:379px) {
+/* Styles */
+
+.main img {
+  height: 100%;
+  margin: 0 auto;
+  width: 99%;
+}
+button.dataprotection {
+  left: 0%;
+  padding: 0px 0px 98px 152px;
+  top: 7%;
+}
+button.communication {
+  left: 48%;
+  padding: 0 89px 38px 2px;
+  top: 16%;
+}
+button.softwear {
+  left: 50%;
+  padding: 0 85px 57px 0;
+  top: 36%;
+}
+button.security {
+
+  left: 79%;
+  padding: 42px 58px 2px 0;
+  top: 41%;
+}
+button.support {
+  left: 23%;
+  padding-bottom: 5px;
+  padding-left: 67px;
+  padding-top: 59px;
+  top: 49%;
+}
+button.hardwaer {
+  left: 48%;
+  padding: 33px 5px 0 92px;
+  top: 62%;
+}
+
+}
+
+@media only screen and (min-width:380px) and (max-width:770px) {
+/* Styles */
+
+.main img {
+  height: 100%;
+  margin: 0 auto;
+  width: 100%;
+}
+button.dataprotection {
+  left: 0;
+  padding: 16px 24px 100px 155px;
+  top: 7%;
+}
+button.communication {
+  left: 49%;
+  padding: 5px 117px 44px 2px;
+  top: 16%;
+}
+button.softwear {
+  left: 50%;
+  padding: 3px 96px 57px 0;
+  top: 36%;
+}
+button.security {
+  left: 79%;
+  padding: 50px 76px 2px 0;
+  top: 41%;
+}
+button.support {
+  left: 23%;
+  padding-bottom: 15px;
+  padding-left: 81px;
+  padding-top: 59px;
+  top: 49%;
+}
+button.hardwaer {
+  left: 47%;
+  padding: 34px 33px 0 66px;
+  top: 62%;
+}
+}
+
+/* --- iPads -- */
+@media only screen and (min-width:768px) and (max-width:869px) {
+/* Styles */
+button.dataprotection {
+  left: 18%;
+  padding: 26px 79px 128px 158px;
+  top: 7%;
+}
+
+button.communication {
+  left: 49%;
+  padding: 17px 143px 44px 2px;
+  top: 16%;
+}
+
+button.softwear {
+  left: 50%;
+  padding: 27px 138px 57px 0;
+  top: 36%;
+}
+
+button.support {
+  left: 34%;
+  padding-bottom: 42px;
+  padding-left: 85px;
+  padding-top: 59px;
+  top: 49%;
+}
+
+button.security {
+  left: 69%;
+  padding: 67px 86px 2px 0;
+  top: 41%;
+}
+
+button.hardwaer {
+  left: 49%;
+  padding: 51px 0 0 221px;
+  top: 62%;
+}
+}
+
+@media only screen and (min-width:870px) and (max-width:980px) {
+/* Styles */
+
+button.dataprotection {
+  left: 18%;
+  padding: 62px 138px 128px 158px;
+  top: 7%;
+}
+
+button.communication {
+  left: 49%;
+  padding: 32px 172px 44px 2px;
+  top: 16%;
+}
+
+button.softwear {
+  left: 50%;
+  padding: 41px 159px 57px 0;
+  top: 36%;
+}
+
+button.security {
+  left: 69%;
+  opacity: 0;
+  padding: 83px 106px 2px 0;
+  top: 41%;
+}
+
+button.support {
+  left: 34%;
+  opacity: 0;
+  padding-bottom: 66px;
+  padding-left: 107px;
+  padding-top: 59px;
+  top: 49%;
+}
+
+button.hardwaer {
+  left: 49%;
+  opacity: 0;
+  padding: 62px 0 0 286px;
+  top: 62%;
+}
+
+}
+
+/* Desktops and laptops ----------- */
+@media only screen  and (min-width:1224px) {
+/* Styles */
+button.dataprotection{
+background: rgba(0, 0, 0, 0) url("../img/dataprotection.png") no-repeat scroll 0 0;
+content: "";
+left: 18%;
+opacity: 0;
+padding: 136px 243px 128px 158px;
+position: absolute;
+top: 7%;
+}
+
+button.communication{
+background: rgba(0, 0, 0, 0) url("../img/communication.png") no-repeat scroll 0 0;
+content: "";
+left: 49%;
+opacity: 0;
+padding: 53px 248px 44px 2px;
+position: absolute;
+top: 16%;
+}
+
+button.hardwaer{
+background: rgba(0, 0, 0, 0) url("../img/hardwaer.png") no-repeat scroll 0 0;
+content: "";
+left: 49%;
+opacity: 0;
+padding: 81px 86px 0 269px;
+position: absolute;
+top: 62%;
+}
+
+button.security{
+background: rgba(0, 0, 0, 0) url("../img/security.png") no-repeat scroll 0 0;
+content: "";
+left: 69%;
+opacity: 0;
+padding: 114px 155px 2px 0;
+position: absolute;
+top: 41%;
+}
+
+button.softwear{
+background: rgba(0, 0, 0, 0) url("../img/softwear.png") no-repeat scroll 0 0;
+content: "";
+left: 50%;
+opacity: 0;
+padding: 75px 222px 57px 0;
+position: absolute;
+top: 36%;
+}
+
+button.support{
+background: rgba(0, 0, 0, 0) url("../img/support.png") no-repeat scroll 0 0;
+content: "";
+left: 34%;
+opacity: 0;
+padding-bottom: 113px;
+padding-left: 149px;
+padding-top: 59px;
+position: absolute;
+top: 49%;
+}
+}
